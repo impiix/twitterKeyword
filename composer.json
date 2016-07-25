@@ -1,0 +1,13 @@
+{
+  "require": {
+    "abraham/twitteroauth": "0.6.4"
+  },
+  "require-dev": {
+    "mockery/mockery": "0.9.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Main\\": "src/"
+    }
+  }
+}
